@@ -4,6 +4,8 @@ A simple python based software GUI used to give a natural solution for our healt
 #  Tech Stack 👩‍💻
 - Python
 
+# Image Results 😎
+<img src="Image Output/OP.png" width="450px">  <img src="Image Output/OP1.png" width="400px">
 # 🚀&nbsp;Installation and Contribution 📥
 1. Clone the repository 
 ```
