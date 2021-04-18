@@ -1,7 +1,10 @@
-# HealthAdmin
-A simple python based software friend used to give a natural solution for our health problems.
+# HealthAdmin 👨‍🔬🩺
+A simple python based software GUI used to give a natural solution for our health problems like Cold, Headache, Fever, Stomachpain etc.
 
-# 🚀&nbsp;Installation 
+#  Tech Stack 👩‍💻
+- Python
+
+# 🚀&nbsp;Installation and Contribution 📥
 1. Clone the repository 
 ```
 https://github.com/Ash515/HealthAdmin.git
@@ -28,3 +31,6 @@ $git commit -m  <message>
 $git push origin master
 ```
 Thats all about installation and version control with **Git**
+
+# Developers ❤
+[Ashwin Kumar Ramaswamy](https://github.com/Ash515)
