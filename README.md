@@ -1,10 +1,11 @@
 # HealthAdmin 👨‍🔬🩺
 A simple python based software GUI used to give a natural solution for our health problems like Cold, Headache, Fever, Stomachpain etc.
 
-#  Tech Stack 👩‍💻
-- Python
+##  Tech Stack 
+- Frontend - Python
+- Database - MongoDB
 
-# Image Results 😎
+## Image Results 
 <img src="Image Output/HealthAdmin OP.png" width="450px">  <img src="Image Output/OP1.png" width="450px">
 # 🚀&nbsp;Installation and Contribution 📥
 1. Clone the repository 
