@@ -7,7 +7,8 @@ A simple python based software GUI used to give a natural solution for our healt
 
 ## Image Results 
 <img src="Image Output/HealthAdmin OP.png" width="450px">  <img src="Image Output/OP1.png" width="450px">
-# 🚀&nbsp;Installation and Contribution 📥
+
+## Installation and Contribution 
 1. Clone the repository 
 ```
 https://github.com/Ash515/HealthAdmin.git
